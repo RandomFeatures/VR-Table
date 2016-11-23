@@ -1,0 +1,125 @@
+[Compiler]
+A=1
+B=0
+C=1
+D=1
+E=0
+F=0
+G=1
+H=1
+I=1
+J=1
+K=0
+L=1
+M=0
+N=1
+O=1
+P=1
+Q=0
+R=0
+S=0
+T=0
+U=0
+V=1
+W=0
+X=1
+Y=0
+Z=1
+ShowHints=1
+ShowWarnings=1
+UnitAliases=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+
+[Linker]
+MapFile=0
+OutputObjs=0
+ConsoleApp=1
+DebugInfo=0
+RemoteSymbols=0
+MinStackSize=16384
+MaxStackSize=1048576
+ImageBase=4194304
+ExeDescription=
+
+[Directories]
+OutputDir=c:\programming\applications\final
+UnitOutputDir=
+PackageDLLOutputDir=
+PackageDCPOutputDir=c:\programming\applications\final
+SearchPath=
+Packages=DelphiX_for4;VCLSMP40;VCL40;VCLX40
+Conditionals=
+DebugSourceDirs=
+UsePackages=0
+
+[Parameters]
+RunParams=
+HostApplication=C:\Programming\Applications\Final\VRTable.exe
+
+[Version Info]
+IncludeVerInfo=0
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1033
+CodePage=1252
+
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[Excluded Packages]
+$(DELPHI)\Bin\coride40.bpl=Borland Core IDE Package
+$(DELPHI)\BIN\TLIB40.BPL=Borland Type Library Engine
+$(DELPHI)\BIN\VCLIDE40.BPL=Integrated Development Environment Specific Components
+$(DELPHI)\Bin\proide40.bpl=Borland Core IDE Package
+$(DELPHI)\Bin\dclsmp40.bpl=Borland Sample Components
+$(DELPHI)\Bin\crbide40.bpl=Borland Core IDE CORBA Package
+$(DELPHI)\BIN\DCLDB40.BPL=Borland Database Components
+$(DELPHI)\Bin\direct40.bpl=Delphi Direct module
+$(DELPHI)\Bin\stride40.bpl=String Resource Editor IDE Package
+$(DELPHI)\Bin\dbwebxprt.bpl=Borland Web Wizard Package
+C:\WINDOWS\SYSTEM\NMFAST40.BPL=NetMasters Fastnet Tools
+$(DELPHI)\Bin\dclqrt40.bpl=QuickReport Components
+$(DELPHI)\BIN\MTSIDE40.BPL=Borland Core MTS IDE Package
+$(DELPHI)\Bin\dcldss40.bpl=Borland Decision Cube Components
+$(DELPHI)\BIN\DCLTEE40.BPL=Borland TeeChart Components
+$(DELPHI)\Bin\dclint40.bpl=Borland Resource DLL Wizard
+$(DELPHI)\Bin\dclisp40.bpl=Borland Internet Solutions Pack Components
+$(DELPHI)\Bin\dclmid40.bpl=Borland MIDAS Components
+$(DELPHI)\Bin\dclnet40.bpl=Borland Internet Components
+$(DELPHI)\Bin\dclocx40.bpl=Borland Sample Imported ActiveX Controls
+$(DELPHI)\Bin\dphcrb40.bpl=Borland Delphi Core IDE CORBA Package
+$(DELPHI)\BIN\DPHIDE40.BPL=Borland Delphi Core IDE Package
+C:\WINDOWS\SYSTEM\VCLJPG40.BPL=Borland Delphi JPEG image support library
+$(DELPHI)\Bin\dphmts40.bpl=Borland Delphi Core MTS IDE Package
+
+[HistoryLists\hlUnitAliases]
+Count=1
+Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+
+[HistoryLists\hlOutputDirectorry]
+Count=1
+Item0=c:\programming\applications\final\plugin
+
+[HistoryLists\hlHostApplication]
+Count=1
+Item0=C:\Programming\Applications\VRE\VRTable.exe
+
+[HistoryLists\hlDCPOutput]
+Count=1
+Item0=c:\programming\applications\final

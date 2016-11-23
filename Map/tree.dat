@@ -1,0 +1,50 @@
+Root\Monster
+  Newbie\newbie1.bmp
+  Newbie\Newbie2.bmp
+  Newbie\newbie3.bmp
+  Newbie\Newbie4.bmp
+  Newbie\Newbie5.bmp
+  Newbie\Newbie6.bmp
+  Newbie\Newbie7.bmp
+  Newbie\Newbie8.bmp
+  Newbie\Newbie9.bmp
+endroot
+
+Root\Landscape
+  tree\apple tree.bmp
+  tree\apple tree2.bmp
+  tree\apple tree3.bmp
+  tree\apple tree4.bmp
+  tree\pear tree.bmp
+  tree\pear tree2.bmp
+  tree\pear tree3.bmp
+  tree\pear tree4.bmp
+  rock\rock.bmp
+  rock\boulder.bmp
+  rock\flowstone.bmp
+endroot
+
+
+Root\Ground Tile
+  water\water.bmp
+endroot
+
+root\Misc Stuff
+  grave\grave1.bmp
+  grave\grave2.bmp
+  grave\grave3.bmp
+  treasure\multi.bmp
+  treasure\multi2.bmp
+  treasure\multi3.bmp
+  treasure\multi5.bmp
+  treasure\smallgold.bmp
+endroot
+
+
+
+
+
+
+
+
+

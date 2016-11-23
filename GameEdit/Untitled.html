@@ -1,0 +1,50 @@
+<HTML>
+<HEAD>
+   <TITLE>Web Design & Graphics, Themes By Winterhaze, Free Sets</TITLE>
+</HEAD>
+<BODY TEXT="#FFCC99" BGCOLOR="#B78246" LINK="#66FF99" VLINK="#FFCC00" ALINK="#FF6600" BACKGROUND="Image5.gif">
+<p><layer NAME="a" LEFT=10 TOP=10 VISIBILITY=SHOW BGCOLOR="#FF0000" CLIP="0,0,2,2"></layer><layer NAME="b" LEFT=10 TOP=10 VISIBILITY=SHOW BGCOLOR="#FF8000" CLIP="0,0,2,2"></layer><layer NAME="c" LEFT=10 TOP=10 VISIBILITY=SHOW BGCOLOR="#FFFF00" CLIP="0,0,2,2"></layer><layer NAME="d" LEFT=10 TOP=10 VISIBILITY=SHOW BGCOLOR="#00FF00" CLIP="0,0,2,2"></layer><layer NAME="e" LEFT=10 TOP=10 VISIBILITY=SHOW BGCOLOR="#0000FF" CLIP="0,0,2,2"></layer><layer NAME="f" LEFT=10 TOP=10 VISIBILITY=SHOW BGCOLOR="#FF00FF" CLIP="0,0,2,2"></layer><layer NAME="g" LEFT=10 TOP=10 VISIBILITY=SHOW BGCOLOR="#FFFFFF" CLIP="0,0,2,2"></layer><script language="JavaScript1.2">
+
+<!-- Begin 
+var ns=document.layers ? 1 : 0;
+if (ns) {
+window.captureEvents(Event.MOUSEMOVE);
+var yBase = 200;
+var xBase = 200;
+var delay = 10;
+var yAmpl = 10;
+var yMax = 40;
+var step = .2;
+var ystep = .5;
+var currStep = 0;
+var tAmpl=1;
+var Xpos = 50;
+var Ypos = 50;
+var j = 0;
+function MoveHandler(evnt) {
+Xpos = evnt.pageX;
+Ypos = evnt.pageY;
+}
+window.onMouseMove = MoveHandler;
+function animateLogo() {
+yBase = window.innerHeight/4 ;
+xBase = window.innerWidth/4;
+for ( j = 0 ; j < 7 ; j++ ) {
+document.layers[j].top = Ypos + Math.cos((20*Math.sin(currStep/20))+j*70)*yBase*(Math.sin(10+currStep/10)+0.2)*Math.cos((currStep + j*25)/10);
+document.layers[j].left =Xpos + Math.sin((20*Math.sin(currStep/20))+j*70)*xBase*(Math.sin(10+currStep/10)+0.2)*Math.cos((currStep + j*25)/10);
+}
+currStep += step;
+setTimeout("animateLogo()", delay);
+}
+animateLogo();
+}
+// End -->
+
+
+
+
+
+</script>
+</body>
+</head>
+</html>
